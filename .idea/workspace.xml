@@ -1,15 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d0d7d92-d207-44d2-99d3-8360ba317d22" name="Default Changelist" comment="" />
+    <list default="true" id="4d0d7d92-d207-44d2-99d3-8360ba317d22" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.browserslistrc" beforeDir="false" afterPath="$PROJECT_DIR$/.browserslistrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/startbootstrap-creative-gh-pages.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/startbootstrap-creative-gh-pages.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/alertifyjs/alertify.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/alertifyjs/alertify.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/alertifyjs/css/alertify.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/alertifyjs/css/alertify.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/alertifyjs/css/alertify.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/alertifyjs/css/alertify.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/alertifyjs/css/themes/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/alertifyjs/css/themes/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/alertifyjs/css/themes/bootstrap.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/alertifyjs/css/themes/bootstrap.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/alertifyjs/css/themes/default.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/alertifyjs/css/themes/default.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/alertifyjs/css/themes/default.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/alertifyjs/css/themes/default.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/alertifyjs/css/themes/semantic.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/alertifyjs/css/themes/semantic.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/alertifyjs/css/themes/semantic.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/alertifyjs/css/themes/semantic.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/bootstrap/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/bootstrap/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/FiraSans-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font-awesome/FiraSans-Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font-awesome/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/Lato-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font-awesome/Lato-Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font-awesome/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font-awesome/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font-awesome/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font-awesome/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font-awesome/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font-awesome/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font-awesome/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/macset.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font-awesome/macset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/macset.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font-awesome/macset.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/macset.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font-awesome/macset.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/macset.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font-awesome/macset.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/font-awesome/macset.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/font-awesome/macset.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jquery/jquery-migrate-1.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/jquery/jquery-migrate-1.2.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/creative.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/creative.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/creative.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/creative.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/material-icon/css/material-design-iconic-font.css" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/material-icon/css/material-design-iconic-font.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/material-icon/css/material-design-iconic-font.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/material-icon/css/material-design-iconic-font.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/material-icon/fonts/Material-Design-Iconic-Font.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/material-icon/fonts/Material-Design-Iconic-Font.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/material-icon/fonts/Material-Design-Iconic-Font.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/material-icon/fonts/Material-Design-Iconic-Font.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/material-icon/fonts/Material-Design-Iconic-Font.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/material-icon/fonts/Material-Design-Iconic-Font.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/material-icon/fonts/Material-Design-Iconic-Font.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/material-icon/fonts/Material-Design-Iconic-Font.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/material-icon/fonts/Material-Design-Iconic-Font.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/material-icon/fonts/Material-Design-Iconic-Font.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300italic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300italic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300italic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300italic.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300italic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300italic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300italic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300italic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300italic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500italic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500italic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500italic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500italic.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500italic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500italic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500italic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500italic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500italic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-600.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-600.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-600.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-600.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-600.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-600.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-600.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-600.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-600.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-600.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700italic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700italic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700italic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700italic.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700italic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700italic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700italic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700italic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700italic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800italic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800italic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800italic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800italic.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800italic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800italic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800italic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800italic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800italic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-900.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-900.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-900.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-900.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-900.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-900.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-900.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-italic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-italic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-italic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-italic.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-italic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-italic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-italic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-italic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-italic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700italic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700italic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700italic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700italic.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700italic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700italic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700italic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700italic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700italic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-italic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-italic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-italic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-italic.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-italic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-italic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-italic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-italic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-italic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/signin-image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/signin-image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/signup-image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/signup-image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-masthead.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg-masthead.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/creative.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/creative.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/creative.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/creative.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_masthead.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_masthead.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_navbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_portfolio.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_portfolio.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_register.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_register.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/creative.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/creative.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/all.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/brands.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/brands.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/brands.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/brands.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/fontawesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/fontawesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/fontawesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/fontawesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/regular.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/regular.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/regular.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/regular.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/solid.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/solid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/solid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/solid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/svg-with-js.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/svg-with-js.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/svg-with-js.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/svg-with-js.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/v4-shims.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/v4-shims.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/v4-shims.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/v4-shims.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.eot" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.woff" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.compatibility.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.compatibility.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/jquery/jquery.min.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/jquery/jquery.slim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/magnific-popup/jquery.magnific-popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/magnific-popup/jquery.magnific-popup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/magnific-popup/jquery.magnific-popup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/magnific-popup/jquery.magnific-popup.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/magnific-popup/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/magnific-popup/magnific-popup.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
-      <executable />
+      <executable path="composer" />
     </execution>
   </component>
   <component name="DatabaseView">
@@ -31,6 +242,13 @@
   </component>
   <component name="NamedScopeManager">
     <scope name="Unnamed" pattern="" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/fontawesome-free/css" />
+      <path value="$PROJECT_DIR$/vendor/bootstrap/js" />
+      <path value="$PROJECT_DIR$/vendor/fontawesome-free/webfonts" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1W9iJ3RIhc6jtUQmvf8Wl3KKaoT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -80,7 +298,8 @@
       <workItem from="1578570009600" duration="3154000" />
       <workItem from="1578574777796" duration="892000" />
       <workItem from="1578615188803" duration="12433000" />
-      <workItem from="1578781948619" duration="186000" />
+      <workItem from="1578781948619" duration="2069000" />
+      <workItem from="1578784051713" duration="379000" />
     </task>
     <servers />
   </component>
@@ -108,6 +327,10 @@
       <screen x="0" y="27" width="1366" height="705" />
     </state>
     <state x="248" y="27" width="860" height="705" key="CommitChangelistDialog2/0.27.1366.705@0.27.1366.705" timestamp="1578665842361" />
+    <state x="416" y="295" width="523" height="175" key="ComposerInitDialogKey" timestamp="1578783244908">
+      <screen x="0" y="27" width="1366" height="705" />
+    </state>
+    <state x="416" y="295" width="523" height="175" key="ComposerInitDialogKey/0.27.1366.705@0.27.1366.705" timestamp="1578783244908" />
     <state x="219" y="157" width="908" height="488" key="EditFileWatcherDialog" timestamp="1578572600184">
       <screen x="0" y="27" width="1366" height="705" />
     </state>
@@ -116,22 +339,22 @@
       <screen x="0" y="27" width="1366" height="705" />
     </state>
     <state x="456" y="159" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.705@0.27.1366.705" timestamp="1578572335874" />
-    <state width="660" height="161" key="GridCell.Tab.0.bottom" timestamp="1578575716295">
+    <state width="660" height="161" key="GridCell.Tab.0.bottom" timestamp="1578784019253">
       <screen x="0" y="27" width="1366" height="705" />
     </state>
-    <state width="660" height="161" key="GridCell.Tab.0.bottom/0.27.1366.705@0.27.1366.705" timestamp="1578575716295" />
-    <state width="660" height="161" key="GridCell.Tab.0.center" timestamp="1578575716295">
+    <state width="660" height="161" key="GridCell.Tab.0.bottom/0.27.1366.705@0.27.1366.705" timestamp="1578784019253" />
+    <state width="660" height="161" key="GridCell.Tab.0.center" timestamp="1578784019253">
       <screen x="0" y="27" width="1366" height="705" />
     </state>
-    <state width="660" height="161" key="GridCell.Tab.0.center/0.27.1366.705@0.27.1366.705" timestamp="1578575716295" />
-    <state width="660" height="161" key="GridCell.Tab.0.left" timestamp="1578575716294">
+    <state width="660" height="161" key="GridCell.Tab.0.center/0.27.1366.705@0.27.1366.705" timestamp="1578784019253" />
+    <state width="660" height="161" key="GridCell.Tab.0.left" timestamp="1578784019253">
       <screen x="0" y="27" width="1366" height="705" />
     </state>
-    <state width="660" height="161" key="GridCell.Tab.0.left/0.27.1366.705@0.27.1366.705" timestamp="1578575716294" />
-    <state width="660" height="161" key="GridCell.Tab.0.right" timestamp="1578575716295">
+    <state width="660" height="161" key="GridCell.Tab.0.left/0.27.1366.705@0.27.1366.705" timestamp="1578784019253" />
+    <state width="660" height="161" key="GridCell.Tab.0.right" timestamp="1578784019253">
       <screen x="0" y="27" width="1366" height="705" />
     </state>
-    <state width="660" height="161" key="GridCell.Tab.0.right/0.27.1366.705@0.27.1366.705" timestamp="1578575716295" />
+    <state width="660" height="161" key="GridCell.Tab.0.right/0.27.1366.705@0.27.1366.705" timestamp="1578784019253" />
     <state x="172" y="27" width="1012" height="705" key="SettingsEditor" timestamp="1578782135058">
       <screen x="0" y="27" width="1366" height="705" />
     </state>
@@ -148,5 +371,9 @@
       <screen x="0" y="27" width="1366" height="705" />
     </state>
     <state x="268" y="45" width="800" height="684" key="scopes/0.27.1366.705@0.27.1366.705" timestamp="1578571057055" />
+    <state x="408" y="293" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1578783322370">
+      <screen x="0" y="27" width="1366" height="705" />
+    </state>
+    <state x="408" y="293" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1366.705@0.27.1366.705" timestamp="1578783322370" />
   </component>
 </project>
