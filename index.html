@@ -306,6 +306,7 @@
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="assets/jquery/jquery-migrate-1.2.1.min.js"></script>
+  <script src="assets/jquery/serializeObject.min.js" ></script>
   <script src="assets/jquery/jquery.js"></script>
   <script src="assets/alertifyjs/alertify.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -320,18 +321,21 @@
   <script>
     $(document).ready(function() {
 
-      new File(["foo"], "/home/flo/projets/landin-page/foo.txt", {
-        type: "text/plain",
+      var $form = $('form#register-form'),
+              url = 'https://script.google.com/macros/s/AKfycbzxIJX0k5SfSN0tQOxsx67uM2fxG9icfuebbIaX-ZPDvYGi3Nk/exec';
+
+      $('#signup').on('click', function(e) {
+        e.preventDefault();
+        var jqxhr = $.ajax({
+          url: url,
+          method: "GET",
+          dataType: "json",
+          data: $form.serialize()
+        }).done(function(){
+                  // do something
+                }
+        );
       });
-
-      /*var fh = fopen("/home/flo/projets/landin-page/test.txt", 3); // Open the file for writing
-
-        if(fh!=-1) // If the file has been successfully opened
-        {
-          var str = "Some text goes here...";
-          fwrite(fh, str); // Write the string to a file
-          fclose(fh); // Close the file
-      }*/
 
       $('#register-form').submit(function(e) {
         var name    = document.getElementById('nom')
@@ -339,7 +343,6 @@
         var message = document.getElementById('code')
         var message = document.getElementById('telephone')
 
-      console.log($('#register-form').serialize())
         if (!name.value || !email.value || !message.value) {
           alertify.error("Veuillez renseigner toutes les informations");
           return false;
